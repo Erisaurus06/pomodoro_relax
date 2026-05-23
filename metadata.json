@@ -1,0 +1,6 @@
+{
+  "name": "Pomodoro Lofi Studio",
+  "description": "Estudio Pomodoro interactivo con enlace directo a música Lofi, variedad de hermosos temas visuales, estilos de reloj ajustables y notas integradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
